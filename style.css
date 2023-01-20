@@ -62,6 +62,7 @@ header>h1{
 header>p{
     max-width: 600px;
     margin: auto;
+    margin-bottom: 15px;
     font-size: 1.2em;
 }
 nav{
@@ -133,7 +134,7 @@ aside>h2{
 }
 
 aside > ul{
-    margin: 0 25%;
+    margin: 0 15%;
     list-style-position: inside;
     list-style-type: '\1F5F8\00a0';
     columns: 2;
